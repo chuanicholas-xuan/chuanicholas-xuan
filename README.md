@@ -12,22 +12,22 @@ Some projects are **closed source**. Their repos are showcases with a descriptio
 
 ### 💰 FinTrack · [repo](https://github.com/chuanicholas-xuan/fintrack-app)
 A personal finance app that syncs across devices. Multi-account and multi-currency, with shared trips, recurring subscriptions, budgets and goals. You can scan a receipt to fill in a transaction with AI. **Vibe coded: ~37k lines of TypeScript in about 10 weeks.**
-`Expo` `React Native` `Supabase` `Claude API`
+`Expo` `React Native` `Supabase` `Claude API`<br>
 **[🌐 Open web app](https://fintrack-phi-eight.vercel.app)** · **[📱 Download APK](https://github.com/chuanicholas-xuan/fintrack-app/releases/latest)**
 
 ### ☀️ Sunwise · [repo](https://github.com/chuanicholas-xuan/sunwise)
 A day planner with plans, habits and to-dos on one Today timeline, plus streaks and weekly insights. Android builds come out of an automated GitHub Actions pipeline.
-`Expo` `React Native` `GitHub Actions`
+`Expo` `React Native` `GitHub Actions`<br>
 **[🌐 Open web app](https://sunwise-phi.vercel.app)** · **[📱 Download APK](https://github.com/chuanicholas-xuan/sunwise/releases/latest)**
 
 ### 🧮 Calculator · [repo](https://github.com/chuanicholas-xuan/calculator-app) · open source
 A phone-style calculator with a scientific mode, history, 5 themes and 14 unit converters.
-`React` `Vite`
+`React` `Vite`<br>
 **[🌐 Open app](https://calculator-app-psi-one-31.vercel.app)**
 
 ### 📝 Workspace · [repo](https://github.com/chuanicholas-xuan/workspace) · open source
 A personal site you can fork: portfolio, project pages and shareable Notion-style notes.
-`Next.js` `Supabase` `Tailwind` `Tiptap`
+`Next.js` `Supabase` `Tailwind` `Tiptap`<br>
 
 ---
 
