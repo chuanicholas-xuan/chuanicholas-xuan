@@ -23,7 +23,7 @@ I build apps for Android, IOS and web, mostly with the help of AI. I plan the pr
 
 
 ![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)
-![Hack The Box](https://img.shields.io/badge/Hack_The_Box-111927?style=for-the-badge&logo=hackthebox&logoColor=9FEF00)
+
 
 ---
 
