@@ -12,6 +12,19 @@ I build apps for Android, IOS and web, mostly with the help of AI. I plan the pr
 
 ![](https://skillicons.dev/icons?i=supabase,postgres,git,github,vscode,linux)
 
+**Cybersecurity tools**
+
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
+![OWASP](https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white)
+
+
+![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)
+![Hack The Box](https://img.shields.io/badge/Hack_The_Box-111927?style=for-the-badge&logo=hackthebox&logoColor=9FEF00)
+
 ---
 
 ## Projects (Things I've built) 
